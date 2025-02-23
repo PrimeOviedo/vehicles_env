@@ -2,6 +2,8 @@
 
 Esta aplicación web, desarrollada con **Streamlit**, permite visualizar y analizar datos de anuncios de venta de vehículos en EE.UU. Utiliza **Plotly** para generar gráficos interactivos y facilita la exploración del conjunto de datos.  
 
+URL para acceder al proyecto en Render: https://vehicles-env-6r1b.onrender.com
+
 ## 📌 Funcionalidades  
 ✅ Visualización de un **histograma del odómetro** para analizar la distribución del kilometraje de los vehículos.  
 ✅ **Gráfico de dispersión** que relaciona el precio y el odómetro, permitiendo identificar tendencias en los datos.  
